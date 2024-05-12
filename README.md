@@ -1,7 +1,7 @@
 Hi there 👋
 
-- 🔭 I’m currently working on some cool personnal projects and improving my technical skillsets, mainly software engineering, web development and Machine Learning.
-- 🤔 I’m looking for help to improve my skillsets and learning new technologies!!!
+- 🔭 I’m currently working on some cool personnal projects and improving my technical skillsets, mainly software engineering, especially backend engineering.
+- 🤔 I’m looking for help to improve my skillsets and learning new technologies!!! Currently learning more about operating systems, databases and Go programming
 - 💬 Ask me about anything really, can be about work or even fun stuff, also i like travelling so lets talk about going overseas sometime soon!
 
 <h3 align="left">Languages and Tools:</h3>
